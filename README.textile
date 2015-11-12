@@ -25,7 +25,9 @@ There are now *four* kinds of substitutions available: *fields*, *tables*, *imag
 h3. Fields placeholders
 
 It's just an upcase sentence, surrounded by brackets. It will be replaced for wathever value you supply.
-
+<pre>
+NOTE: this remove, I'll try remove the whole text without brackets
+</pre>
 In the folowing example:
 
 <pre>
